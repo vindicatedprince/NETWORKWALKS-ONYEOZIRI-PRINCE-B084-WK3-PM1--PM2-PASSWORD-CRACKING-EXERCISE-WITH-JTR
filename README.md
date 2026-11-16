@@ -1,7 +1,7 @@
 # Password Cracking Exercise – Networkwalks Cybersecurity Program
 
 ## 📌 Overview
-This repository documents a hands-on password-cracking exercise completed as part of the **Networkwalks Academy** cybersecurity training program. The objective was to recover passwords protecting a set of PDF files using offline password-cracking techniques, reinforcing core penetration testing skills around hash extraction, identification, and credential recovery.
+This repository documents a hands-on password-cracking exercise completed as part of the **Networkwalks Academy** cybersecurity Internship program. The objective was to recover passwords protecting a set of PDF files using offline password-cracking techniques, reinforcing core penetration testing skills around hash extraction, identification, and credential recovery.
 
 > **Note:** Flags, cracked passwords, and original hash/PDF files are intentionally excluded from this repo, as they are used by Networkwalks to verify individual completion. This document focuses on methodology and lessons learned, not on reproducing the exercise answers.
 
@@ -16,7 +16,7 @@ This repository documents a hands-on password-cracking exercise completed as par
 - **[OnlineHashCrack PDF Hash Extractor](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)** – used to extract the crackable hash from each password-protected PDF
 - **[Networkwalks Password Cracker](https://networkwalks.com/password-cracker/)** – used during the exercise for password recovery
 - **[Networkwalks Hash Calculator](https://networkwalks.com/hash-calculator/)** – used to generate/verify hash values
-- **Windows 10/11 PC** – entire exercise was carried out on Windows, no Linux/Kali VM required
+- **Windows 11 PC** – entire exercise was carried out on Windows, no Linux/Kali VM required
 
 ## 🔍 Methodology
 1. **Hash Extraction** – Uploaded each password-protected PDF to the OnlineHashCrack PDF Hash Extractor tool to generate a crackable hash string in a format compatible with John the Ripper.
@@ -35,7 +35,7 @@ This repository documents a hands-on password-cracking exercise completed as par
 Screenshots of successful flag captures are included in `/screenshots` (redacted where necessary).
 
 ## 🎓 Program
-Part of ongoing cybersecurity training with [Networkwalks Academy](https://networkwalks.com), as I transition from a background in operations management into cybersecurity and IT.
+Part of ongoing Cybersecurity Internship Training Program with [Networkwalks Academy](https://networkwalks.com), as I transition from a background in operations management into Cybersecurity and IT.
 
 ---
 **Author:** Prince ([@vindicatedprince](https://github.com/vindicatedprince))
