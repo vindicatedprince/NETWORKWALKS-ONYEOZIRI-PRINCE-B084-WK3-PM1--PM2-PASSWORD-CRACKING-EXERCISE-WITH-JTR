@@ -37,5 +37,18 @@ Screenshots of successful flag captures are included in `/screenshots` (redacted
 ## 🎓 Program
 Part of ongoing Cybersecurity Internship Training Program with [Networkwalks Academy](https://networkwalks.com), as I transition from a background in operations management into Cybersecurity and IT.
 
+---## Author
+
+**Prince Odinakachi Onyeoziri** 
+
+**Cybersecurity Intern B084**
+
+Github [@vindicatedprince](https://github.com/vindicatedprince)
+
+LinkedIn: [https://www.linkedin.com/in/onyeoziri-prince](https://www.linkedin.com/in/onyeoziri-prince-b4387a348/))
+
 ---
-**Author:** Prince ([@vindicatedprince](https://github.com/vindicatedprince))
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity Internship at Networkwalks | **Week:** 03 | **Project:** PASSWORD CRACKING WITH JOHN THE RIPPER AND NETWORKWALKS TOOLS | **Repository:** GitHub
